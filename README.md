@@ -1,2 +1,3 @@
 # startpage
-Start Page of August Guidry
+
+August Guidry's start page
