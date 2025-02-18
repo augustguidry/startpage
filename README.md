@@ -1,3 +1,3 @@
 # startpage
 
-August Guidry's start page
+Gus's start page
